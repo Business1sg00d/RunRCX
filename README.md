@@ -1,6 +1,8 @@
-Payload is loaded into the actual entry point of the target process (calc.exe by default; must change in source code and recompile).
+This is all for research purposes only. Tested in an isolated lab environment.
 
-Target windows binaries that don't get flagged on disk:
+AddressOfEntryPoint points to payload address within the created process (calc.exe by default; must change in source code and recompile).
+
+Target windows binaries that didn't get flagged on disk:
 ------------------
 C:\\Windows\\System32\\mstsc.exe
 C:\\Windows\\System32\\calc.exe
@@ -17,7 +19,7 @@ Strip the output file so it looks like an array; no new line characters, no spac
 cat hexfile.txt | tr -d ' ' | tr -d '\n' | sed -r 's/^.*\{//' | sed -r 's/\};$//'
 ```
 
-Then the payload must be formated with AES_Encrypt_Byte_Buffer.exe.
+Then the payload must be formated with AES_Encrypt_Byte_Buffer.exe. Outputs b64Output.txt.
 
 I imagine there's some size restrictions here if using the env variable command below.
 
