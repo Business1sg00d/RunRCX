@@ -1,0 +1,7 @@
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\RunRCX\RunRCX\bin\x64\Release\RunRCX.exe.config
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\RunRCX\RunRCX\bin\x64\Release\RunRCX.exe
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\RunRCX\RunRCX\bin\x64\Release\RunRCX.pdb
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\RunRCX\RunRCX\obj\x64\Release\RunRCX.csproj.AssemblyReference.cache
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\RunRCX\RunRCX\obj\x64\Release\RunRCX.csproj.CoreCompileInputs.cache
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\RunRCX\RunRCX\obj\x64\Release\RunRCX.exe
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\RunRCX\RunRCX\obj\x64\Release\RunRCX.pdb
