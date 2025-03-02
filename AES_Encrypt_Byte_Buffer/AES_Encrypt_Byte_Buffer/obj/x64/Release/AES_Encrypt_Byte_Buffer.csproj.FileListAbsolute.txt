@@ -1,0 +1,14 @@
+C:\Users\ShiguruiMuerto\Documents\Ignore\win11_backup\source\repos\AES_Encrypt_Byte_Buffer\AES_Encrypt_Byte_Buffer\bin\x64\Release\AES_Encrypt_Byte_Buffer.exe.config
+C:\Users\ShiguruiMuerto\Documents\Ignore\win11_backup\source\repos\AES_Encrypt_Byte_Buffer\AES_Encrypt_Byte_Buffer\bin\x64\Release\AES_Encrypt_Byte_Buffer.exe
+C:\Users\ShiguruiMuerto\Documents\Ignore\win11_backup\source\repos\AES_Encrypt_Byte_Buffer\AES_Encrypt_Byte_Buffer\bin\x64\Release\AES_Encrypt_Byte_Buffer.pdb
+C:\Users\ShiguruiMuerto\Documents\Ignore\win11_backup\source\repos\AES_Encrypt_Byte_Buffer\AES_Encrypt_Byte_Buffer\obj\x64\Release\AES_Encrypt_Byte_Buffer.csproj.AssemblyReference.cache
+C:\Users\ShiguruiMuerto\Documents\Ignore\win11_backup\source\repos\AES_Encrypt_Byte_Buffer\AES_Encrypt_Byte_Buffer\obj\x64\Release\AES_Encrypt_Byte_Buffer.csproj.CoreCompileInputs.cache
+C:\Users\ShiguruiMuerto\Documents\Ignore\win11_backup\source\repos\AES_Encrypt_Byte_Buffer\AES_Encrypt_Byte_Buffer\obj\x64\Release\AES_Encrypt_Byte_Buffer.exe
+C:\Users\ShiguruiMuerto\Documents\Ignore\win11_backup\source\repos\AES_Encrypt_Byte_Buffer\AES_Encrypt_Byte_Buffer\obj\x64\Release\AES_Encrypt_Byte_Buffer.pdb
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\AES_Encrypt_Byte_Buffer\AES_Encrypt_Byte_Buffer\bin\x64\Release\AES_Encrypt_Byte_Buffer.exe.config
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\AES_Encrypt_Byte_Buffer\AES_Encrypt_Byte_Buffer\bin\x64\Release\AES_Encrypt_Byte_Buffer.exe
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\AES_Encrypt_Byte_Buffer\AES_Encrypt_Byte_Buffer\bin\x64\Release\AES_Encrypt_Byte_Buffer.pdb
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\AES_Encrypt_Byte_Buffer\AES_Encrypt_Byte_Buffer\obj\x64\Release\AES_Encrypt_Byte_Buffer.csproj.AssemblyReference.cache
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\AES_Encrypt_Byte_Buffer\AES_Encrypt_Byte_Buffer\obj\x64\Release\AES_Encrypt_Byte_Buffer.csproj.CoreCompileInputs.cache
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\AES_Encrypt_Byte_Buffer\AES_Encrypt_Byte_Buffer\obj\x64\Release\AES_Encrypt_Byte_Buffer.exe
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\AES_Encrypt_Byte_Buffer\AES_Encrypt_Byte_Buffer\obj\x64\Release\AES_Encrypt_Byte_Buffer.pdb
