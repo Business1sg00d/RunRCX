@@ -32,7 +32,7 @@ Load from a file:
 
 Load from variable:
 ```
-.\RunRCX.exe $base64cdoe 2
+.\RunRCX.exe $base64code 2
 ```
 
 Also can run getpayload.ps1 with IEX.
