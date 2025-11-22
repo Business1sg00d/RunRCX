@@ -1,6 +1,6 @@
 This is all for research purposes only. Tested in an isolated lab environment.
 
-AddressOfEntryPoint points to payload address within the created process (calc.exe by default; must change in source code and recompile).
+When creating a process in a suspended state, it is possible to change the address in RCX via CONTEXT structs. This address points to what looks like the initial executable code during the start of a process. New allocated memory can be populated with a small payload, then entered into the RCX register. Resuming the thread will run the payload. I have only tested this with sliver stagers.
 
 Target windows binaries that didn't get flagged on disk:
 ------------------
@@ -36,3 +36,4 @@ Load from variable:
 ```
 
 Also can run getpayload.ps1 with IEX.
+
